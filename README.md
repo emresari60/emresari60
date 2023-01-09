@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/sari-emre/" title="LinkedIn Profile"><img width="22" src="image/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/@emresari6071" title="HackerRank Profile"><img width="22" src="image/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://www.hackerrank.com/@emresari6071" title="HackerRank Profile"><img width="22" src="image/hackerrank.svg"> HackerRank</a></code>
 </h5>
 <br>
 <p align="center">
@@ -37,7 +37,7 @@
  
   
   <code><img title="Javascript" height="25" src="image/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="image/problemSolving.png"></code>
+  <code><img title="Problem Solving" height="25" src="image/problemSolving.svg"></code>
   <code><img title="HTML5" height="25" src="image/html5.svg"></code>
   <code><img title="CSS" height="25" src="image/css.svg"></code>
  

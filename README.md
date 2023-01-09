@@ -7,8 +7,8 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/sari-emre/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/@emresari6071" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://www.linkedin.com/in/sari-emre/" title="LinkedIn Profile"><img width="22" src="image/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/@emresari6071" title="HackerRank Profile"><img width="22" src="image/hackerrank.png"> HackerRank</a></code>
 </h5>
 <br>
 <p align="center">
@@ -36,18 +36,18 @@
 <p align="center">
  
   
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="Javascript" height="25" src="image/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="image/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="image/html5.svg"></code>
+  <code><img title="CSS" height="25" src="image/css.svg"></code>
  
 
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code> 
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code> 
+  <code><img title="Git" height="25" src="image/git-original.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="image/postgresql.svg"></code>
+  <code><img title="Java" height="25" src="image/java-original.svg"></code>
+  <code><img title="JSON" height="25" src="image/json.svg"></code> 
+  <code><img title="GitHub" height="25" src="image/github.svg"></code>
+  <code><img title="MySQL" height="25" src="image/mysql.svg"></code> 
 </p>
 <hr>
 

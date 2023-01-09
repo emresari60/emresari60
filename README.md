@@ -34,15 +34,14 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
- 
-  
   <code><img title="Javascript" height="25" src="image/javascript.svg"></code>
   <code><img title="Problem Solving" height="25" src="image/problemSolving.svg"></code>
   <code><img title="HTML5" height="25" src="image/html5.svg"></code>
   <code><img title="CSS" height="25" src="image/css.svg"></code>
- 
-
   <code><img title="Git" height="25" src="image/git-original.svg"></code>
+  </p>
+  
+  <p align="center">
   <code><img title="PostgreSQL" height="25" src="image/postgresql.svg"></code>
   <code><img title="Java" height="25" src="image/java-original.svg"></code>
   <code><img title="JSON" height="25" src="image/json.svg"></code> 

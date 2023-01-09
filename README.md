@@ -73,16 +73,19 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-
+<br><br>
   <a align="center" href="https://github.com/emresari60/Selenium-Instruction" title="Selenium-Instruction"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=emresari60&repo=Selenium-Instruction&theme=react&border_color=61dafb&border_radius=10"></a>
- 
-  <a align="center" href="https://github.com/emresari60/binance-bot" title="Binance Bot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=emresari60&repo=binance-bot&theme=react&border_color=61dafb&border_radius=10"></a>
+ </div>
+  <br><br>
+<div width="100%" align="center">
+<a align="center" href="https://github.com/emresari60/binance-bot" title="Binance Bot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=emresari60&repo=binance-bot&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br><br>
 <div width="100%" align="center">
  
   <a align="center" href="https://github.com/emresari60/Rock_Paper_Scissor" title="Rock Paper Scissor"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=emresari60&repo=Rock_Paper_Scissor&theme=react&border_color=61dafb&border_radius=10"></a>
-   
+   </div>
+ <div width="100%" align="center"> 
   <a align="center" href="https://github.com/emresari60/JavaInstruction" title="Java Instruction"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=emresari60&repo=JavaInstruction&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>

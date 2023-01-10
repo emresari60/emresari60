@@ -25,7 +25,7 @@
   <br>
   📚 I’m currently learning how to build 
   <br>
-  💬 Ask me anything about from <a href="www.linkedin.com/in/sari-emre" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://www.linkedin.com/in/sari-emre" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: emresari6071@gmail.com">emresari6071@gmail.com</a>
 </p>

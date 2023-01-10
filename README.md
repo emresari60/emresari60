@@ -51,6 +51,7 @@
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
+<code><img align="center" src="https://raw.githubusercontent.com/ghosharnab00/ghosharnab00/output/github-contribution-grid-snake.svg"></code>
 <br>
 <p align=center>
   <div align=center>
